@@ -1,0 +1,17 @@
+h1 {
+    color: deepskyblue;
+    font-family: "Lucida Console", Lucida, serif;
+}
+
+h2 {
+    color: purple;
+    font-family: "Arial", Arial, serif;
+}
+
+p {
+    font-family: "Arial", Arial, serif;
+}
+
+body {
+    background-image: url("source.gif");
+}
